@@ -11,7 +11,7 @@ Evaluate model using statistical metrics
 Deploy the model using a web application
 
 Dataset Information
-Dataset Path: C:\Brain_Tumor\Epic and CSCR hospital Dataset
+Dataset link: https://data.mendeley.com/datasets/zwr4ntf94j/5
 Total Classes: 4
 Glioma
 Meningioma
